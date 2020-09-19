@@ -1,0 +1,16 @@
+
+.fournisseur{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: center;
+ }
+ .four-card{
+    width: 90%;
+    height: calc(100% - 32px);
+ }
+ 
